@@ -1,3 +1,5 @@
 *.Rda
 *.Rproj
 *.xlsx
+.Rhistory
+.Rproj\.user
